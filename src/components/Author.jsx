@@ -8,7 +8,7 @@ const Author = () => {
     <section className='relative overflow-hidden rounded-b-xl py-4 
     lg:mb-8 lg:px-3 lg:overflow-visible'>
       <div className='flex h-full px-10 items-center'>
-        <img src='../public/images/avatar-michelle.jpg' alt='avatar' className='rounded-full w-[15%] grow-0 lg:w-14'></img>
+        <img src='src/assets/images/avatar-michelle.jpg' alt='avatar' className='rounded-full w-[15%] grow-0 lg:w-14'></img>
         <div className='ml-2 grow lg:ml-6'>
           <h2 className='font-bold text-lg text-textColorFull leading-0'>Michelle Appleton</h2>
           <p className='font-medium text-lg text-textColorHalf'>28 Jun 2020</p>
