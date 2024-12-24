@@ -7,10 +7,10 @@ html {
 }
 
 @layer components{
-  .facebookIcon { content: url('images/icon-facebook.svg'); }
-  .pinterestIcon { content: url('images/icon-pinterest.svg'); }
-  .twitterIcon { content: url('images/icon-twitter.svg'); }
-  .shareIcon { content: url('images/icon-share.svg'); }
+  .facebookIcon { content: url('/images/icon-facebook.svg'); }
+  .pinterestIcon { content: url('/images/icon-pinterest.svg'); }
+  .twitterIcon { content: url('/images/icon-twitter.svg'); }
+  .shareIcon { content: url('/images/icon-share.svg'); }
   .share2fill {
     filter: brightness(0) saturate(100%) invert(88%) sepia(6%) saturate(660%) hue-rotate(192deg) brightness(109%) contrast(94%);
   }
